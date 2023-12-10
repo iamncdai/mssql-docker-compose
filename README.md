@@ -22,7 +22,7 @@ docker-compose down
 
 ## Connect to SQL Server on VM
 
-> Download and Install: https://www.parallels.com/
+> Download and Install VM: https://www.parallels.com/
 
 ### Microsoft SQL Server Management Studio (SSMS)
 
