@@ -11,7 +11,11 @@ Create `.env` file and add `SA_PASSWORD` variable. You can see sample file `.env
 ## Run SQL Server on Mac
 
 ```bash
+# Start
 docker-compose up -d
+
+# Stop
+docker-compose down
 ```
 
 ## Connect to SQL Server on VM
