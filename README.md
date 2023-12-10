@@ -1,5 +1,7 @@
 # Microsoft SQL Sever on Apple Silicon
 
+> SQL Sever 2019, SQL Server Management Studio (SSMS) 19.2
+
 ## Configure Docker on Mac
 
 > Download and Install: https://docs.docker.com/desktop/install/mac-install/
