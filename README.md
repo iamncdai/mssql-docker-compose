@@ -1,4 +1,4 @@
-# Microsoft SQL Sever on Mac - Apple Chip
+# Microsoft SQL Sever on Apple Silicon
 
 ## Configure Docker on Mac
 
